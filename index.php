@@ -34,7 +34,6 @@
         <p class="aboutPara">
             Hello, I'm Advait Bapurao Andhale from Parbhani, India. I am a 15 year old web developer
         </p>
-        
         </div>
     </div>
 </body>
